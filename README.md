@@ -1,21 +1,25 @@
+# 📊 Data Insight Analyzer
 
+A Python project that analyzes sales data, generates summary statistics, visualizes trends, and provides basic business insights.
 
-# Data Insight Analyzer
+---
 
-A Python project that analyzes sales data and generates meaningful insights.
+## 🔍 Project Overview
+This project demonstrates fundamental data analysis skills using Python:
+- Loading and processing CSV data
+- Calculating key sales metrics
+- Visualizing sales trends
+- Interpreting data into business insights
 
-## Objective
-To demonstrate basic data analysis skills including data loading, summary statistics,
-visualization, and trend detection using Python.
+Designed as a **Junior Data Analyst portfolio project**.
 
-## Features
-- Load sales data from a data source
-- Calculate total, average, minimum, and maximum sales
-- Visualize sales trend using line charts
-- Identify overall sales trend (upward / downward)
+---
 
-## Tech Stack
-- Python
+## 🛠 Tech Stack
+- Python 3
+- pandas
 - matplotlib
 
-## Project Structure
+---
+
+## 📁 Project Structure
